@@ -1,0 +1,15 @@
+﻿  MyForm.cpp
+C:\Users\Hansika\source\repos\TrainSystem\TrainSystem\MyForm.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Hansika\source\repos\TrainSystem\TrainSystem\MyForm2.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Hansika\source\repos\TrainSystem\TrainSystem\MyForm3.h(978,19): warning C4101: 'myReader': unreferenced local variable
+C:\Users\Hansika\source\repos\TrainSystem\TrainSystem\MyForm3.h(1005,19): warning C4101: 'myReader': unreferenced local variable
+C:\Users\Hansika\source\repos\TrainSystem\TrainSystem\MyForm2.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Hansika\source\repos\TrainSystem\TrainSystem\MyForm.h(1366,19): warning C4101: 'myReader': unreferenced local variable
+  MyForm2.cpp
+C:\Users\Hansika\source\repos\TrainSystem\TrainSystem\MyForm2.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Hansika\source\repos\TrainSystem\TrainSystem\MyForm3.h(978,19): warning C4101: 'myReader': unreferenced local variable
+C:\Users\Hansika\source\repos\TrainSystem\TrainSystem\MyForm3.h(1005,19): warning C4101: 'myReader': unreferenced local variable
+C:\Users\Hansika\source\repos\TrainSystem\TrainSystem\MyForm2.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  TrainSystem.vcxproj -> C:\Users\Hansika\source\repos\TrainSystem\Debug\TrainSystem.exe

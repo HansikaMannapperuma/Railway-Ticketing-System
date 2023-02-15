@@ -1,0 +1,7 @@
+C:\Users\Hansika\source\repos\TrainSystem\TrainSystem\Debug\TrainSystem.vcxprojAssemblyReference.cache
+C:\Users\Hansika\source\repos\TrainSystem\TrainSystem\Debug\TrainSystem.MyForm.resources
+C:\Users\Hansika\source\repos\TrainSystem\TrainSystem\Debug\TrainSystem.vcxproj.GenerateResource.cache
+C:\Users\Hansika\source\repos\TrainSystem\TrainSystem\Debug\TrainSystem.vcxproj.CopyComplete
+C:\Users\Hansika\source\repos\TrainSystem\TrainSystem\Debug\TrainSystem.MyForm2.resources
+C:\Users\Hansika\source\repos\TrainSystem\TrainSystem\Debug\TrainSystem.MyForm3.resources
+C:\Users\Hansika\source\repos\TrainSystem\TrainSystem\Debug\TrainSystem.MyForm4.resources
